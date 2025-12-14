@@ -1,0 +1,50 @@
+{
+  "CSE": {
+    "1": ["Mathematics-I", "Physics", "Introduction to Programming", "Basic Electrical Engineering", "Engineering Drawing"],
+    "2": ["Mathematics-II", "Chemistry", "Data Structures", "Digital Logic Design", "Environmental Studies"],
+    "3": ["Discrete Mathematics", "Computer Organization", "Object Oriented Programming", "Operating Systems", "Database Management Systems"],
+    "4": ["Design & Analysis of Algorithms", "Computer Networks", "Software Engineering", "Theory of Computation", "Java Programming"],
+    "5": ["Compiler Design", "Artificial Intelligence", "Web Technologies", "Cryptography", "Mobile Computing"],
+    "6": ["Operating Systems", "Computer Networks", "Database Management Systems", "Web Technologies", "Machine Learning"]
+  },
+  "IT": {
+    "1": ["Mathematics-I", "Physics", "Introduction to Programming", "Engineering Mechanics", "Communication Skills"],
+    "2": ["Mathematics-II", "Chemistry", "Data Structures", "Digital Electronics", "Economics for Engineers"],
+    "3": ["Discrete Mathematics", "Computer Architecture", "Object Oriented Programming", "Operating Systems", "DBMS"],
+    "4": ["Computer Networks", "Software Engineering", "Web Development", "Java Programming", "Probability & Statistics"],
+    "5": ["Cloud Computing", "Network Security", "Data Mining", "Mobile Application Development", "Design Thinking"],
+    "6": ["Software Engineering", "Database Systems", "Network Security", "Cloud Computing", "Mobile App Development"]
+  },
+  "ECE": {
+    "1": ["Mathematics-I", "Physics", "Basic Electronics", "Electrical Circuits", "Engineering Drawing"],
+    "2": ["Mathematics-II", "Chemistry", "Digital Logic Design", "Signals & Systems", "Basic Programming"],
+    "3": ["Electronic Devices", "Network Analysis", "Switching Theory", "Control Systems", "Analog Circuits"],
+    "4": ["Microprocessors", "Electromagnetic Waves", "Digital Communication", "VLSI Design", "Data Structures"],
+    "5": ["Embedded Systems", "Antenna & Wave Propagation", "Optical Communication", "Linear ICs", "Internet of Things"],
+    "6": ["Signal Processing", "Embedded Systems", "Communication Theory", "Microcontrollers", "VLSI Design"]
+  },
+  "EE": {
+    "1": ["Mathematics-I", "Physics", "Basic Electrical Engineering", "Engineering Chemistry", "Communication Skills"],
+    "2": ["Mathematics-II", "Electronics", "Electrical Machines-I", "Network Analysis", "Basic Programming"],
+    "3": ["Electrical Machines-II", "Control Systems", "Analog Electronics", "Electromagnetic Fields", "Measurements"],
+    "4": ["Power Systems-I", "Microprocessors", "Power Electronics", "Signals and Systems", "Digital Electronics"],
+    "5": ["Renewable Energy", "High Voltage Engineering", "Electrical Drives", "Embedded Systems", "Switchgear & Protection"],
+    "6": ["Power Systems", "Control Systems", "Electrical Machines-II", "Digital Signal Processing", "Renewable Energy Sources"]
+  },
+  "MECH": {
+    "1": ["Mathematics-I", "Engineering Physics", "Engineering Mechanics", "Engineering Graphics", "Basic Electrical & Electronics"],
+    "2": ["Mathematics-II", "Engineering Chemistry", "Thermodynamics", "Basic Civil & Mechanical", "Computer Programming"],
+    "3": ["Fluid Mechanics", "Mechanics of Materials", "Thermal Engineering", "Machine Drawing", "Manufacturing Processes"],
+    "4": ["Dynamics of Machines", "Material Science", "Industrial Engineering", "Heat Transfer", "CAD"],
+    "5": ["IC Engines", "Design of Machine Elements-I", "Mechatronics", "Robotics", "Refrigeration & AC"],
+    "6": ["Heat Transfer", "Fluid Machinery", "Dynamics of Machines", "Design of Machine Elements-II", "CAD/CAM"]
+  },
+  "CIVIL": {
+    "1": ["Mathematics-I", "Engineering Physics", "Engineering Mechanics", "Engineering Graphics", "Basic Electrical & Electronics"],
+    "2": ["Mathematics-II", "Engineering Chemistry", "Building Materials", "Basic Mechanical Engg", "Computer Programming"],
+    "3": ["Surveying", "Strength of Materials", "Fluid Mechanics", "Engineering Geology", "Construction Materials"],
+    "4": ["Concrete Technology", "Structural Analysis-I", "Geotechnical Engineering-I", "Transportation Engineering-I", "Environmental Engineering-I"],
+    "5": ["Structural Design-I", "Geotechnical Engineering-II", "Water Resources Engineering", "Construction Management", "Transportation Engineering-II"],
+    "6": ["Structural Analysis-II", "Geotechnical Engineering-II", "Environmental Engineering-I", "Concrete Technology", "Transportation Engineering-I"]
+  }
+}
